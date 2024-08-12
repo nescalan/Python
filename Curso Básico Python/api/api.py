@@ -1,0 +1,1 @@
+# Ejemplo #1: Obtener y mostrar información del personaje
